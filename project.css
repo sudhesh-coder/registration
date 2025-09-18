@@ -2,10 +2,6 @@
     padding: 0;
     margin: 0;
     background-image: url(https://slidescorner.com/wp-content/uploads/2024/01/Pink-Google-Slides-Background-Gradient-Liquid-Wave-Abstract-by-SlidesCorner.com_-964x542.jpg);
-    border-radius: 5px;
-
-    
-   
 }
 .one{
     color: white;
@@ -111,6 +107,7 @@ select:hover{
 @media only screen and (min-width:992px) and (max-width:1199px){
     
 }
+
 
 
 
