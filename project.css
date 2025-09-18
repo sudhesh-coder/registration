@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://slidescorner.com/wp-content/uploads/2024/01/Pink-Google-Slides-Background-Gradient-Liquid-Wave-Abstract-by-SlidesCorner.com_-964x542.jpg);
+    border-radius: 5px;
+
+    
+   
+}
+.one{
+    color: white;
+}
+nav{
+
+    color: white;
+    padding: 15px;
+}
+
+h1,li,ul{
+    display: inline;
+    font-style: italic;
+}
+
+ul{
+    margin-left:60% ;
+}
+
+li{
+    color: gray;
+}
+
+li:hover{
+    cursor: pointer;
+    color:white;
+}
+.seven{
+    text-align: center;
+    padding-top: 25px;
+    color: black;
+}
+.para{
+    margin: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.eight{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ten{
+    text-align: center;
+    margin-top: 25px;
+}
+.two{
+    text-align: center;
+    padding: 15px;
+    
+
+    
+}
+
+.three{
+    text-align: center;
+    padding: 15px;
+}
+.four{
+    text-align: center;
+    padding: 15px;
+}
+.five{
+    text-align: center;
+    padding: 15px;
+}
+.phone{
+    text-align: center;
+    padding: 15px;
+}
+.six{
+    text-align: center;
+    padding: 15px;
+}
+
+#submit{
+    padding: 15px;
+    text-align: center;
+
+}
+
+button:hover{
+    cursor: pointer;
+    color:white;
+
+}
+select:hover{
+    cursor: pointer;
+}
+
+.choice{
+    margin-top: 15px;
+}
+.number{
+    color: white;
+
+}
+.email{
+    color: white;
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+    
+}
+
+
+
+
+
+
+
+
+
